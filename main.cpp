@@ -10,11 +10,6 @@ class Client
 {
 
 };
-class Operation
-{
-
-};
-
 class RentalCompany
 {
 
